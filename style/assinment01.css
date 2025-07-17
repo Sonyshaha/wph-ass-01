@@ -1,0 +1,166 @@
+/*Fonts*/
+
+.raleway-normal{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+.seconday-bg{
+    background-color:rgba(228, 234, 249, 0.866);
+}
+.img-01{
+     background-image:url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+     width: 1920px;
+     height: 800px;
+   
+
+}
+.logo-1{
+    color: #4E47FF;
+    font-size: 40px;
+    font-weight:900px;
+    
+}
+.btn-1{
+    background-color: #4E47FF;
+    color:white;
+    font-size: 20px;
+    padding: 10px 15px ;
+    border-radius: 5px;
+    border: none;
+    width: 140px;
+    height: 50px;
+
+}
+nav .nav-style1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+nav{
+    width: 1500px ;
+    height: 132px;
+    margin: 0px 144px 100px 144px;
+    align-items: center;
+}
+.banner-text1{
+    font-size: 65px;
+    font-weight: bold;
+    width: 909px;
+    height: 148px;
+}
+.btn-2{
+    background-color: #4E47FF;
+    color:white;
+    font-size: 16px;
+    padding: 10px 15px ;
+    border-radius: 5px;
+    border: none;
+    width: 160px;
+    height: 50px;
+    align-items: center;
+
+}
+.banner{
+    text-align: center;
+    width:905px;
+    height: 237px;
+    margin: 290px 150px 160px 480px ;
+    align-items: center;
+}
+.h2-text-pt1{
+    font-size: 55px;
+    font-weight: bold;
+}
+.p-text-pt1{
+    font-size: 24px;
+    color: #747474;
+    font-weight: 200px;
+    width: 550px;
+    height: 60px;
+}
+.left-element-1{
+    width: 550px;
+    height: 250px;
+    text-align: left;
+}
+.btn-3{
+    background-color: #4E47FF;
+    color:white;
+    font-size: 16px;
+    padding: 10px 15px ;
+    border-radius: 5px;
+    border: none;
+    width: 250px;
+    height: 50px;
+    align-items: center;
+
+}
+
+
+.img-02{
+    width: 450px;
+    height: 328px;
+    border-radius: 15px;
+    margin-top: 60px;
+}
+section .element-1{
+    display: flex;
+    justify-content: space-between;
+    width: 1400px;
+    height: 330px;
+    align-items: center;
+    text-align: center;
+    margin: 20px 160px 150px 220px;
+}
+.views-1-1{
+    color: #4E47FF;
+    font-size: 80px;
+    width: 162px;
+    height: 30px;
+}
+.views-1{
+    width: 162px;
+    height: 30px;
+    gap: 5px;
+}
+.views-1-2{
+    color: #3e3b3b;
+    font-weight: 200px;
+    font-size: 20px;
+}
+.part2-element{
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+}
+   
+.part-2-element-2{
+    display: flex;
+    width: 1100px;
+    height: 150px;
+    justify-content: space-around;
+    text-align: center;
+}
+.part-2-section{
+    align-items: center;
+    padding: 50px 50px;
+   
+}
+.part-2{
+    background-color: #b5b3e7;
+    width: 1250px;
+    height: 500px;
+    align-items: center;
+    border-radius: 20px;
+    margin: 30px 260px 50px 300px;
+}
