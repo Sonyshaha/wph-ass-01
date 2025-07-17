@@ -164,3 +164,66 @@ section .element-1{
     border-radius: 20px;
     margin: 30px 260px 50px 300px;
 }
+.part-2-sh2{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.container-part2{
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px 20px 10px 10px;
+    width: 370px;
+    height: 250px;
+}
+.part-7-sh2{
+    gap:0px;
+    
+    
+
+}
+.part-6-sh2{
+    font-size: 16px;
+    line-height: 0%;
+    color: #4b4a4a;
+    
+}
+.part-8-sh2{
+    color:#535252;
+    font-size: 16px;
+    text-align: left;
+    line-height: 0%;
+   
+}
+.part-5-ss2{
+    display: flex;
+   
+   align-items: center;
+    width: 325px;
+    height: 70px;
+    gap: 20px;
+
+}
+.img-part-9{
+    padding: 10px 0px;
+    width: 50px;
+    height: 70px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+.img-ppart-9{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.card-part-1{
+    display: flex;
+    gap:30px;
+    align-items: center;
+    
+}
+.part-3-container{
+    align-items: center;
+    width: 1250px;
+    height: 400px;
+    margin: 100px 160px 5px 300px;
+}
